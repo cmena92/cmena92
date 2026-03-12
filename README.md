@@ -2,7 +2,7 @@
 
 **Director de Tecnologías de Información** · Colegio de Profesionales en Informática y Computación (CPIC), Costa Rica
 
-Desarrollador web desde los 15 años. Profesional desde 2015. En los últimos años, mi carrera giró de escribir código a construir equipos y liderar la transformación digital de una institución pública.
+Desarrollador web desde los 15 años. Profesional desde 2015. En los últimos años, mi carrera giró de escribir código a construir equipos y liderar en innovación tecnológica.
 
 ---
 
@@ -13,10 +13,10 @@ Dirijo el departamento de TI del CPIC — el colegio profesional que agremia a l
 **Algunas cosas que hemos logrado:**
 
 - Migración de ERP legacy (Softland/SQL Server) a Odoo 19 Enterprise, incluyendo sincronización bidireccional en tiempo real con stored procedures y XML-RPC
-- Implementación de CRM con Amazon SES para campañas a +16K contactos
-- Diseño de arquitectura de observabilidad para 5 servidores en DigitalOcean
+- Implementación de CRM 
+- Diseño de arquitectura de observabilidad y arquitectura basada en datos y seguridad
 - Integración de IA como herramienta operativa del departamento — no como experimento, sino como parte del flujo diario
-- Desarrollo de chatbot institucional con Azure, RAG y consultas a ERP en producción
+- Direccion de desarrollo de proyectos internos donde se usa IA de forma productiva
 - Pipeline de firma digital certificada BCCR para Odoo (en desarrollo)
 - 78+ proyectos gestionados, 46 completados, 225-325 tickets/mes con respuesta promedio de 5-10 minutos
 
