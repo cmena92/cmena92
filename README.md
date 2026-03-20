@@ -10,6 +10,8 @@ Desarrollador web desde los 15 años. Profesional desde 2015. En los últimos a�
 
 Dirijo el departamento de TI del CPIC — el colegio profesional que agremia a los informáticos de Costa Rica. Lidero un equipo multidisciplinario de 6 personas (desarrollo backend/frontend, procesos, redes, soporte) y coordino con áreas como Comunicación, Dirección Ejecutiva y Servicios.
 
+https://github.com/cloorus es mi trabajo mas reciente, una IA automona que maneja mis workflows de desarrollo.
+
 **Algunas cosas que hemos logrado:**
 
 - Migración de ERP legacy (Softland/SQL Server) a Odoo 19 Enterprise, incluyendo sincronización bidireccional en tiempo real con stored procedures y XML-RPC
