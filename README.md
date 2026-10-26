@@ -1,7 +1,7 @@
 # Crisman Andrey Mena Gómez
 
 **Director de Tecnologías de Información** · Colegio de Profesionales en Informática y Computación (CPIC), Costa Rica
-**Fundador** · [WebCom Costa Rica](https://webcomcr.com) — ciberseguridad y gobernanza sin cajas negras
+**Socio** · [WebCom Costa Rica](https://webcomcr.com) — departamento de investigación en ciberseguridad y gobernanza
 
 [![webcomcr.com](https://img.shields.io/badge/webcomcr.com-sitio-4D5BFF)](https://webcomcr.com) [![Test de Exposición](https://img.shields.io/badge/Test_de_Exposici%C3%B3n-NIST_CSF_2.0-E30613)](https://webcomcr.com/test) [![Quién está detrás](https://img.shields.io/badge/perfil-%2Fcrisman-2BD9A8)](https://webcomcr.com/crisman)
 
@@ -27,7 +27,7 @@ https://github.com/cloorus es mi trabajo mas reciente, una IA automona que manej
 
 ## WebCom Costa Rica y la fábrica
 
-En paralelo a la dirección de TI, construyo **WebCom Costa Rica**: ciberseguridad y gobernanza para organizaciones que necesitan responder con números. La regla de la casa: *si no lo corremos nosotros, no te lo vendemos.*
+Cuando no estoy en la dirección de TI, colaboro como socio en el **departamento de investigación de WebCom Costa Rica**: ciberseguridad y gobernanza para organizaciones que necesitan responder con números. La regla de la casa: *si no lo corremos nosotros, no te lo vendemos.*
 
 Y para construir, uso **la fábrica**: un método donde **el humano define y decide, y los agentes de IA ejecutan detrás de compuertas**. Nada entra a `main` sin CI, sin revisión del dueño del código y sin evidencia. Un ítem se cierra con evidencia, no con ejecución.
 
@@ -56,10 +56,12 @@ Integraciones: XML-RPC · REST APIs · Deepgram · ElevenLabs
 
 ## Trayectoria
 
-| Período | Rol | Contexto |
+| Etapa | Rol | Contexto |
 |---------|-----|----------|
-| 2008–2015 | Desarrollador autodidacta | PHP, MySQL, proyectos propios desde los 15 años |
-| 2015–2023 | Desarrollador web profesional | WEBCOMCR — sistemas a medida, Yii2, arquitecturas PHP |
+| Desde los 15 años | Desarrollador autodidacta | PHP, MySQL, proyectos propios |
+| Primera empresa (3 años) | Desarrollador | Empresa fundada con compañeros de la universidad; cerró operaciones a los tres años |
+| IGD Online (5 años) | Desarrollador web profesional | Mi primer trabajo al salir de la universidad |
+| WebCom Costa Rica | Desarrollador → **socio** | Sistemas a medida, Yii2, arquitecturas PHP; hoy en el departamento de investigación |
 | 2023–presente | Director de TI | CPIC — gestión de equipos, transformación digital, IA institucional |
 
 ## En qué estoy trabajando
