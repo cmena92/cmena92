@@ -1,6 +1,9 @@
 # Crisman Andrey Mena Gómez
 
 **Director de Tecnologías de Información** · Colegio de Profesionales en Informática y Computación (CPIC), Costa Rica
+**Fundador** · [WebCom Costa Rica](https://webcomcr.com) — ciberseguridad y gobernanza sin cajas negras
+
+[![webcomcr.com](https://img.shields.io/badge/webcomcr.com-sitio-4D5BFF)](https://webcomcr.com) [![Test de Exposición](https://img.shields.io/badge/Test_de_Exposici%C3%B3n-NIST_CSF_2.0-E30613)](https://webcomcr.com/test) [![Quién está detrás](https://img.shields.io/badge/perfil-%2Fcrisman-2BD9A8)](https://webcomcr.com/crisman)
 
 Desarrollador web desde los 15 años. Profesional desde 2015. En los últimos años, mi carrera giró de escribir código a construir equipos y liderar en innovación tecnológica.
 
@@ -22,14 +25,33 @@ https://github.com/cloorus es mi trabajo mas reciente, una IA automona que manej
 - Pipeline de firma digital certificada BCCR para Odoo (en desarrollo)
 - 78+ proyectos gestionados, 46 completados, 225-325 tickets/mes con respuesta promedio de 5-10 minutos
 
+## WebCom Costa Rica y la fábrica
+
+En paralelo a la dirección de TI, construyo **WebCom Costa Rica**: ciberseguridad y gobernanza para organizaciones que necesitan responder con números. La regla de la casa: *si no lo corremos nosotros, no te lo vendemos.*
+
+Y para construir, uso **la fábrica**: un método donde **el humano define y decide, y los agentes de IA ejecutan detrás de compuertas**. Nada entra a `main` sin CI, sin revisión del dueño del código y sin evidencia. Un ítem se cierra con evidencia, no con ejecución.
+
+**Lo que salió de la fábrica en un fin de semana (octubre 2026):**
+
+- [webcomcr.com](https://webcomcr.com): sitio en Next.js 16 con CI/CD de punta a punta. Cada merge se construye fuera del servidor, se despliega con una llave de comando forzado y vuelve atrás sola si no pasa el chequeo de salud
+- [Test de Exposición](https://webcomcr.com/test): autoevaluación de ciberseguridad basada en **NIST CSF 2.0** y **CIS Controls v8**, con radar por función e informe por correo
+- Tablero de **indicadores de gestión con contrato** (numerador, denominador, ventana, fuente y custodio): un KPI sin contrato es una opinión
+- Accesibilidad **WCAG AA verificada** (axe-core sin violaciones), SEO y visibilidad en IA (`llms.txt`, JSON-LD)
+- Entregabilidad de correo resuelta: migración de DNS a Cloudflare con espejo verificado registro por registro, relay de envío y SPF, DKIM y DMARC alineados
+- Endurecimiento de un servidor de producción siguiendo una **ruta de remediación con expediente y bitácora**: SSH solo con llave, servicios internos fuera de internet, fail2ban, 2FA y cierre de un incidente con análisis forense
+- Almacenamiento propio con **Nextcloud** para reemplazar una nube de terceros
+
 ## Stack actual
 
 ```
-Gestión:      Odoo 19 · Proyectos · RRHH · CRM · Knowledge · E-learning
-Backend:      Python · Node.js · PHP (Yii2) · SQL Server · PostgreSQL
-Infra:        DigitalOcean · Azure · Cloudflare Zero Trust · Docker · WatchGuard
-Integraciones: XML-RPC · REST APIs · Amazon SES · Deepgram · ElevenLabs · MCP
-Herramientas: Git · SSH · Linux · Nginx
+Gestión:       Odoo 19 · Proyectos · RRHH · CRM · Knowledge · E-learning
+Frontend:      Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Vitest
+Backend:       Python · Node.js · PHP (Yii2) · SQL Server · PostgreSQL · MySQL
+Infra:         DigitalOcean · Azure · Cloudflare (DNS, Zero Trust, Email) · Docker Compose · Nginx
+Seguridad:     NIST CSF 2.0 · CIS Controls v8 · fail2ban · SSH hardening · SPF/DKIM/DMARC · WCAG 2.2
+CI/CD:         GitHub Actions · GHCR · despliegue con rollback verificado por salud
+IA aplicada:   Claude Code · Pi · OpenClaw · MCP · agentes con compuertas y evidencia
+Integraciones: XML-RPC · REST APIs · Deepgram · ElevenLabs
 ```
 
 ## Trayectoria
@@ -47,6 +69,8 @@ Herramientas: Git · SSH · Linux · Nginx
 - Observabilidad y ciberseguridad institucional
 - Diseño de cursos e-learning sobre IA y ciberseguridad para profesionales
 - Un artículo académico sobre LLM + MCP para gobernanza de TI (coautoría, IEEE)
+- La fábrica: desarrollo de software con humanos y agentes, con compuertas verificables
+- WebCom Costa Rica: medición de exposición, gobernanza con indicadores y almacenamiento propio
 
 ## Lo que me importa
 
@@ -64,8 +88,9 @@ También reconozco que la delegación no me sale natural. Estoy aprendiendo a so
 
 - 📧 crisman.mena@cpic.or.cr
 - 🏢 [CPIC Costa Rica](https://www.cpic.or.cr)
+- 🌐 [webcomcr.com](https://webcomcr.com) · [quién está detrás](https://webcomcr.com/crisman)
 - 📍 San José, Costa Rica
 
 ---
 
-*Última actualización: marzo 2026*
+*Última actualización: octubre 2026*
