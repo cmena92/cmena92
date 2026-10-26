@@ -59,8 +59,9 @@ Integraciones: XML-RPC · REST APIs · Deepgram · ElevenLabs
 | Etapa | Rol | Contexto |
 |---------|-----|----------|
 | Desde los 15 años | Desarrollador autodidacta | PHP, MySQL, proyectos propios |
-| Primera empresa (3 años) | Desarrollador | Empresa fundada con compañeros de la universidad; cerró operaciones a los tres años |
 | IGD Online (5 años) | Desarrollador web profesional | Mi primer trabajo al salir de la universidad |
+| En paralelo, los últimos 3 años en IGD | Cofundador | Mi primera empresa, con compañeros de la universidad; la cerramos al terminar esa etapa |
+| Emprendimiento con mi hermana | Cofundador | Sistemas comerciales para empresas retail; el camino que me llevó a WebCom al salir de IGD |
 | WebCom Costa Rica | Desarrollador → **socio** | Sistemas a medida, Yii2, arquitecturas PHP; hoy en el departamento de investigación |
 | 2023–presente | Director de TI | CPIC — gestión de equipos, transformación digital, IA institucional |
 
